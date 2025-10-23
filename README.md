@@ -1,5 +1,4 @@
-# second_app
-
+# Quizzy
 A new Flutter project.
 
 ## Getting Started
